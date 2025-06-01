@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  inicio: 2025-06-01 13:42:30
+  fim: 2025-06-01 13:42:30
+  tipo: MyString
+  dia: MyString
+
+two:
+  inicio: 2025-06-01 13:42:30
+  fim: 2025-06-01 13:42:30
+  tipo: MyString
+  dia: MyString
