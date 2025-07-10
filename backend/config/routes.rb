@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :turmas
   resources :horarios
   resources :funcionarios
   resources :clientes
